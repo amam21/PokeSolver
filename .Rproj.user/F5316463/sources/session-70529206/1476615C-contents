@@ -1,0 +1,11 @@
+---
+title: "installation_test"
+author: "Alberto M. Arenas"
+date: "2025-06-02"
+output: html_document
+---
+
+```{r cars}
+plot(1:10)
+```
+
